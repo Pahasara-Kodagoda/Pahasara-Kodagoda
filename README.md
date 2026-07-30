@@ -50,15 +50,8 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pahasara-Kodagoda&show_icons=true&theme=dracula"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pahasara-Kodagoda&layout=compact&theme=dracula"/>
-</div>
-
----
-
-<!-- SNAKE -->
-<div align="center">
-  <img src="https://github.com/Pahasara-Kodagoda/Pahasara-Kodagoda/blob/main/github-user-contribution.svg"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Pahasara-Kodagoda&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pahasara-Kodagoda&layout=compact&theme=dracula"/>
 </div>
 
 ---

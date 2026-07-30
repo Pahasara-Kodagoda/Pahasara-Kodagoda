@@ -10,11 +10,11 @@
 
 <!-- INTRO -->
 <h2 align="center">Hi 👋, I'm Pahasara Kodagoda</h2>
-<p align=" center"
+
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)
 ![Framework](https://img.shields.io/badge/Framework-.NET%20CLR-brightgreen.svg)
 ![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%202022-purple.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg) >
+![License](https://img.shields.io/badge/License-MIT-yellow.svg) 
 
 <h3 align="center">🚀 Passionate Full Stack Developer from Sri Lanka</h3>
 

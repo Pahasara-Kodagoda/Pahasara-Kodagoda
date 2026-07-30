@@ -36,6 +36,12 @@
 </p>
 
 ---
+<!-- TYPING EFFECT HEADER -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vcenter=true&width=500&lines=Full+Stack+Developer;UI%2FUX+Design+Enthusiast;Building+Modern+Web+Apps;Always+Learning+New+Tech" alt="Typing SVG" />
+  </a>
+</div>
 
 <!-- SKILLS -->
 <h3 align="center">⚙️ Languages & Tools</h3>
@@ -45,14 +51,6 @@
 </div>
 
 ---
-
-<!-- STATS -->
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Pahasara-Kodagoda&show_icons=true&theme=dracula"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pahasara-Kodagoda&layout=compact&theme=dracula"/>
-</div>
 
 ---
 

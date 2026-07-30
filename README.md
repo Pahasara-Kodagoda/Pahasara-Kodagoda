@@ -3,14 +3,14 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient"/>
 </div>
 
-<!-- TYPING EFFECT HEADER -->
+<!-- GIF -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Pahasara+Kodagoda;Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Design+Enthusiast+%F0%9F%8E%A8;Building+Modern+Web+Apps+%F0%9F%92%A1" alt="Typing SVG" />
-  </a>
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"/>
 </div>
 
-<br/>
+<!-- INTRO -->
+<h2 align="center">Hi 👋, I'm Pahasara Kodagoda</h2>
+<h3 align="center">🚀 Passionate Full Stack Developer from Sri Lanka</h3>
 
 <!-- ABOUT -->
 <div align="center">
@@ -42,15 +42,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,php,laravel,python,java,c,cpp,cs,flutter,dart,firebase,git,figma,photoshop,illustrator,blender" />
-</div>
-
----
-
-<!-- GITHUB TROPHIES & ACHIEVEMENTS -->
-<h3 align="center">🏆 GitHub Achievements</h3>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pahasara-Kodagoda&theme=dracula&no-frame=true&no-background=true&margin-w=15" alt="Pahasara's GitHub Trophies" />
 </div>
 
 ---

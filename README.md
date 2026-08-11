@@ -64,31 +64,6 @@
 
 </div>
 ---
-<div align="center">
-
-I'm always interested in collaborating on interesting projects, creative ideas and new technologies.
-
-<br/><br/>
-
-<a href="https://github.com/Pahasara-Kodagoda"> <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github"/> </a>
-
-<a href="https://linkedin.com/in/pahasarapahasara"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/> </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Pahasara-Kodagoda&label=Profile%20Views&color=6366f1&style=flat-square"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:6366f1,50:312e81,100:0f172a"/>
-
-🚀 Keep Building. Keep Learning. Keep Creating.
-
-</div>
 
 <!-- FOOTER -->
 <div align="center">
